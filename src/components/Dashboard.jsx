@@ -1,4 +1,4 @@
-import { fmt } from "../utils/helpers";
+import { fmt } from "../utils/Helpers";
 
 export default function Dashboard({
   user,
